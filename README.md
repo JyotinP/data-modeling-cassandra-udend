@@ -6,4 +6,5 @@ They'd like a data engineer to create an Apache Cassandra database which can cre
 # Project Datasets
 
 There is one dataset residing in Local Directory:
+
 **Event data:** `event_data`
